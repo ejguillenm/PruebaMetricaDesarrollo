@@ -1,0 +1,6 @@
+c:\users\eduardojavier\documents\visual studio 2012\Projects\PruebaMetrica\PruebaMetrica\bin\Debug\PruebaMetrica.exe.config
+c:\users\eduardojavier\documents\visual studio 2012\Projects\PruebaMetrica\PruebaMetrica\bin\Debug\PruebaMetrica.exe
+c:\users\eduardojavier\documents\visual studio 2012\Projects\PruebaMetrica\PruebaMetrica\bin\Debug\PruebaMetrica.pdb
+c:\users\eduardojavier\documents\visual studio 2012\Projects\PruebaMetrica\PruebaMetrica\obj\Debug\PruebaMetrica.csprojResolveAssemblyReference.cache
+c:\users\eduardojavier\documents\visual studio 2012\Projects\PruebaMetrica\PruebaMetrica\obj\Debug\PruebaMetrica.exe
+c:\users\eduardojavier\documents\visual studio 2012\Projects\PruebaMetrica\PruebaMetrica\obj\Debug\PruebaMetrica.pdb
